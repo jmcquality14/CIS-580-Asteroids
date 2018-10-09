@@ -1,0 +1,6 @@
+canvas {
+	border: 1px solid #000000;
+	box-shadow: 5px 5px 5px gray;
+	/*background-image: url(https://opengameart.org/sites/default/files/mmBackground.png);*/
+	background-color: black;
+}
